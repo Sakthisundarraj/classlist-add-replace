@@ -13,7 +13,7 @@ btn.addEventListener('click',()=>{
 // Replace class
 
 rebtn.addEventListener("click",()=>{
-    text.classList.replace("color","newcolor")
+    text.classList.replace("color","newcolor","newcolor","color")
 })
 
 //Remove class
